@@ -1,0 +1,8 @@
+D:\GitHub\Project\BTVN\CGO_Min\CGO_Min\bin\Debug\CGO_Min.exe.config
+D:\GitHub\Project\BTVN\CGO_Min\CGO_Min\bin\Debug\CGO_Min.exe
+D:\GitHub\Project\BTVN\CGO_Min\CGO_Min\bin\Debug\CGO_Min.pdb
+D:\GitHub\Project\BTVN\CGO_Min\CGO_Min\obj\Debug\CGO_Min.csproj.AssemblyReference.cache
+D:\GitHub\Project\BTVN\CGO_Min\CGO_Min\obj\Debug\CGO_Min.csproj.SuggestedBindingRedirects.cache
+D:\GitHub\Project\BTVN\CGO_Min\CGO_Min\obj\Debug\CGO_Min.csproj.CoreCompileInputs.cache
+D:\GitHub\Project\BTVN\CGO_Min\CGO_Min\obj\Debug\CGO_Min.exe
+D:\GitHub\Project\BTVN\CGO_Min\CGO_Min\obj\Debug\CGO_Min.pdb
